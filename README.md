@@ -1,4 +1,5 @@
 # 🖐️🤖 Hand Capture Calculator
+View your app in this link: https://hand-capture-calculator.ai.studio
 
 ### Turn Your Hand Into a Smart Calculator
 
