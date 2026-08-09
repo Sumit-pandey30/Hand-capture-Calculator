@@ -1,0 +1,6 @@
+{
+  "name": "Hand Capture Calculator",
+  "description": "AI hand gesture and finger-counting calculator for tracking tasks, deep work sessions, tallying counts, and interactive productivity goals using real-time webcam computer vision.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
