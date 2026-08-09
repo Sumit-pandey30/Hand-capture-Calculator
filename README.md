@@ -5,7 +5,7 @@
 > **Control numbers, calculations, and productivity using your hands and voice — directly from your webcam.**
 
 <p align="center">
-
+View your app in this link: https://hand-capture-calculator.ai.studio
 🚀 AI Powered  
 🖐️ Gesture Control  
 🎤 Voice Interaction  
