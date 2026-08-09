@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/177199bf-b969-4bd2-8e0a-088a7b0d7eb3
+View your app in this link: https://hand-capture-calculator.ai.studio
 
 ## Run Locally
 
