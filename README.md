@@ -206,7 +206,7 @@ Current: 14
 Complete the target using hand gestures.
                   ↓
              👤 USER
-👨‍💻 Developer
+# 👨‍💻 Developer
 Sumit Kumar Pandey
 Full-Stack Developer
 
