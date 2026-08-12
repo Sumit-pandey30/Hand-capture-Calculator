@@ -29,6 +29,14 @@ Just show your fingers. 🖐️
 
 You can also use voice interaction to make the experience more natural.
 
+## 👨‍💻 Developer
+### Sumit Kumar Pandey
+
+Full-Stack Developer
+
+**Skills:** Java • Spring Boot • Node.js • Express.js • JavaScript • HTML • CSS • MySQL • MongoDB
+
+
 ---
 
 ## 🎥 How It Works
@@ -206,8 +214,3 @@ Current: 14
 Complete the target using hand gestures.
                   ↓
              👤 USER
-# 👨‍💻 Developer
-Sumit Kumar Pandey
-Full-Stack Developer
-
-Skills: Java • Spring Boot • Node.js • Express.js • JavaScript • HTML • CSS • MySQL • MongoDB
