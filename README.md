@@ -206,3 +206,8 @@ Current: 14
 Complete the target using hand gestures.
                   ↓
              👤 USER
+👨‍💻 Developer
+Sumit Kumar Pandey
+Full-Stack Developer
+
+Skills: Java • Spring Boot • Node.js • Express.js • JavaScript • HTML • CSS • MySQL • MongoDB
